@@ -23,7 +23,7 @@
   /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #deff4e;
-    color: white;
+    color: rgb(0, 0, 0);
     padding: 16px 50px 14px 50px;
   }
   
